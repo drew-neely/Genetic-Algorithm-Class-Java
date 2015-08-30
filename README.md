@@ -1,1 +1,2 @@
 # Genetic-Algorithm-Class-Java
+To use this program to run a genetic algorithm, place the GeneticAlgorithm.java file into the package that contains the class you would like to run the simulation from. The class must extend GeneticAlgorithm and implement the fitness function which takes in a string argument representative of the solution and returns a double representing the fitness of the solution. The fitness must be positive and the greater the fitness, the more fit the solution.
